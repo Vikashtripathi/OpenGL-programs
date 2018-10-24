@@ -1,6 +1,6 @@
 # OpenGL-programs
 
-The project contains following C++ files, developed using GL, GLU and GLUT libraries of OpenGL -
+The project contains output of following programs, developed using GL, GLU and GLUT libraries of OpenGL -
 
 1) Line Stippling
 2) Polygon Stippling
@@ -12,3 +12,5 @@ The project contains following C++ files, developed using GL, GLU and GLUT libra
 8) Cohen Sutherland Line Clipping Algorithm
 9) Weiler Atherton Polygon Clipping Algorithm
 10) 3-D House
+
+The C++ files will be added soon.
